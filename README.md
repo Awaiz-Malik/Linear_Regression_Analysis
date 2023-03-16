@@ -1,4 +1,4 @@
-# Linear_Regression_Analysis using **Y = MX + C**
+# Linear_Regression_Analysis using Y = MX + C
 ## Introduction
 - In the Project we will be using five Dataset files **.csv** with the help of **Modular Programming**
   - Pakistan Population
