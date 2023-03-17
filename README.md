@@ -22,6 +22,7 @@ If you want to Load this project to your system, we will be talking about how to
 - You can visit to this website for further and small detail of how to setup winform c++ project [Setup Winform in Visual Studio for c++](https://www.rkaiser.de/c-winforms-tutorial/) or [visit this video turtorial for furthur details](https://www.youtube.com/watch?v=HcxlYkU8aY0&list=PL2i17lRog5pBe7t9zJdFdugQ6bxgjntJD)
 - Your main cpp should be the same as this [Mainform.cpp](https://github.com/Awaiz-Malik/Linear_Regression_Analysis/blob/main/Regression%20Analysis/MainForm.cpp)
 - You can use the pngs provided at **PNGS** folder or create your own images :)
+- You can check out this blog incase you want to learn [How to Implement Linear Regression in Pytorch](https://www.freecodecamp.org/urdu/news/linear-regression-pytorch-urdu-1-3/)
 - After adding those files build the project and Enjoy!!!
 ### Graph
 If you want to visualize the Graphical Analysis
