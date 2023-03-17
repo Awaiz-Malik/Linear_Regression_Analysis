@@ -1,5 +1,10 @@
 # Linear_Regression_Analysis using Y = MX + C
 ## Introduction
+- Project Team Members
+  - [Muhammad Awaiz Qayyum Malik](https://github.com/Awaiz-Malik)
+  - [Talha Shakeel](https://github.com/cls-talha)
+  - Bilal Abid
+  - Danyal Fahim
 - In the Project we will be using five Dataset files **.csv** with the help of **Modular Programming**
   - Pakistan Population
   - Japan Life Expectancy
@@ -18,6 +23,6 @@ If you want to Load this project to your system, we will be talking about how to
 - Your main cpp should be the same as this [Mainform.cpp](https://github.com/Awaiz-Malik/Linear_Regression_Analysis/blob/main/Regression%20Analysis/MainForm.cpp)
 - After adding those files build the project and Enjoy!!!
 ### Graph
-If you want to visualize the graphical analysis
-- Download [Matplot++](https://alandefreitas.github.io/matplotplusplus/) use it via cmake or vcpkg in your project, also downlaod [GNUPLOT](https://sourceforge.net/projects/gnuplot/files/gnuplot/) and add to enviornment path
+If you want to visualize the Graphical Analysis
+- Download [Matplot++](https://alandefreitas.github.io/matplotplusplus/) use it via cmake or vcpkg in your project, also download [GNUPLOT](https://sourceforge.net/projects/gnuplot/files/gnuplot/) and add to enviornment path
 - Run the Graph.cpp which will predict the graph 
