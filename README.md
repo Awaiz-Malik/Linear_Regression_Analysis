@@ -27,5 +27,5 @@ If you want to Load this project to your system, we will be talking about how to
 - After adding those files build the project and Enjoy!!!
 ### Graph
 If you want to visualize the Graphical Analysis
-- Download [Matplot++](https://alandefreitas.github.io/matplotplusplus/) use it via cmake or vcpkg in your project, also download [GNUPLOT](https://sourceforge.net/projects/gnuplot/files/gnuplot/) and add to enviornment to view graphs.
+- Download [Matplot++](https://alandefreitas.github.io/matplotplusplus/) use it via cmake or vcpkg in your project, also download [GNUPLOT](https://sourceforge.net/projects/gnuplot/files/gnuplot/) and add to enviornment variable to view graphs.
 - Run the Graph.cpp which will show the graph for desire dataset you want to see. 
