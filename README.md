@@ -5,13 +5,13 @@
   - [Talha Shakeel](https://github.com/cls-talha)
   - Bilal Abid
   - Danyal Fahim
-- In the Project we will be using five Dataset files **.csv** with the help of **Modular Programming**
+- In the Project we will be using five Dataset files **.csv** with the help of **Modular Programming**, we will apply Linear Regression on each of them.
   - Pakistan Population
   - Japan Life Expectancy
   - Pakistan Unemployment
   - Price vs Area
   - Salary vs Experience
-- We will be using the concept of **Functional Programming** to train Model for each dataset, their **weights** and **bias** will be saved so we can use those values for our Future Testing and Predictions.
+- We will be using the concept of **Functional Programming** to train Model for each dataset, their **weights** and **bias** will be saved so we can reuse trained model for our Future Testing and Predictions.
 - Each header file will be then used in our **winform cpp** along with images illustrations created on **Adobe Illustrator** to create a User Interface for Making Prediction on our trained model.
 - In the end we will visualise the training of dataset on graph
 ### Information about the above files
